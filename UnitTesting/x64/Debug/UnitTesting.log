@@ -1,0 +1,260 @@
+﻿  pch.cpp
+  UnitTesting.cpp
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_parser_merged.h(587,32): warning C4244: '=': conversão de '__int64' para 'unsigned long', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_parser_merged.h(607,32): warning C4244: '=': conversão de '__int64' para 'unsigned long', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\json.h(1265,35): warning C4267: 'argumento': conversão de 'size_t' para 'uint32_t', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\json.h(1747,32): warning C4267: 'return': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(97,33): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(116,48): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(118,53): warning C4267: 'argumento': conversão de 'size_t' para '_Ty', possível perda de dados
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(118,53): warning C4267:         with
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(118,53): warning C4267:         [
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(118,53): warning C4267:             _Ty=int
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(118,53): warning C4267:         ]
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(219,94): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(367,54): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(378,54): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(396,54): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(407,54): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(469,60): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\mustache.h(569,28): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(795,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2514' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(795,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u279D' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(799,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2514' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(799,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u279D' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(803,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2514' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(803,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u279D' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(807,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2514' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(807,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u279D' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(811,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2514' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(811,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u279D' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(815,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2514' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(815,74): warning C4566: caractere representado por nome de caractere universal (UCN) '\u279D' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(821,66): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2514' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(821,66): warning C4566: caractere representado por nome de caractere universal (UCN) '\u279D' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(832,31): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2514' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(832,31): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2799' não pode ser representado na página de código atual (1252)
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(895,70): warning C4244: 'argumento': conversão de '__int64' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(916,70): warning C4244: 'argumento': conversão de '__int64' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(937,70): warning C4244: 'argumento': conversão de '__int64' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(959,61): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(975,61): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(990,61): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(1045,53): warning C4267: '+=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(1056,45): warning C4267: '+=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(1303,101): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(1303,87): warning C4267: 'argumento': conversão de 'size_t' para 'uint16_t', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(1309,118): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(1369,100): warning C4267: 'argumento': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\routing.h(1523,24): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(951,33): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1037,28): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1102,24): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1127,35): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1156,31): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1388,24): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1361,42): warning C4101: 'e': variável local não referenciada
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1451,29): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1452,31): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1473,29): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1474,31): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1525,28): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1549,28): warning C4244: 'inicializando': conversão de 'int64_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_server.h(225,37): warning C4267: '=': conversão de 'size_t' para 'uint16_t', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+      C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_server.h(225,37):
+      o contexto de instanciação do modelo (o mais antigo primeiro) é
+          C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(844,21):
+          consulte a referência à instanciação 'crow::Crow<>' do modelo da classe que está sendo compilada
+          C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\app.h(494,14):
+          ao compilar a função de membro 'void crow::Crow<>::run(void)' do modelo da classe
+              C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1563,43):
+              veja a primeira referência a 'crow::Crow<>::run' em 'App::run'
+          C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\app.h(518,67):
+          consulte a referência à instanciação 'crow::Server<crow::Crow<>,crow::SocketAdaptor>' do modelo da classe que está sendo compilada
+          C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_server.h(214,18):
+          ao compilar a função de membro 'uint16_t crow::Server<crow::Crow<>,crow::SocketAdaptor>::pick_io_service_idx(void)' do modelo da classe
+              C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_server.h(234,38):
+              veja a primeira referência a 'crow::Server<crow::Crow<>,crow::SocketAdaptor>::pick_io_service_idx' em 'crow::Server<crow::Crow<>,crow::SocketAdaptor>::do_accept'
+              C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_server.h(168,22):
+              veja a primeira referência a 'crow::Server<crow::Crow<>,crow::SocketAdaptor>::do_accept' em 'crow::Server<crow::Crow<>,crow::SocketAdaptor>::run'
+              C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\app.h(525,29):
+              veja a primeira referência a 'crow::Server<crow::Crow<>,crow::SocketAdaptor>::run' em 'crow::Crow<>::run'
+              C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1563,43):
+              veja a primeira referência a 'crow::Crow<>::run' em 'App::run'
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_connection.h(492,75): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+      C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_connection.h(492,75):
+      o contexto de instanciação do modelo (o mais antigo primeiro) é
+          C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_server.h(230,14):
+          ao compilar a função de membro 'void crow::Server<crow::Crow<>,crow::SocketAdaptor>::do_accept(void)' do modelo da classe
+              C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_server.h(168,22):
+              veja a primeira referência a 'crow::Server<crow::Crow<>,crow::SocketAdaptor>::do_accept' em 'crow::Server<crow::Crow<>,crow::SocketAdaptor>::run'
+              C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\app.h(525,29):
+              veja a primeira referência a 'crow::Server<crow::Crow<>,crow::SocketAdaptor>::run' em 'crow::Crow<>::run'
+              C:\Users\guied\Desktop\a03_5\Code\src\API\server.cpp(1563,43):
+              veja a primeira referência a 'crow::Crow<>::run' em 'App::run'
+          C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_server.h(244,22):
+          consulte a referência à instanciação 'crow::Connection<Adaptor,Handler>' do modelo da classe que está sendo compilada
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+          C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_connection.h(483,14):
+          ao compilar a função de membro 'void crow::Connection<Adaptor,Handler>::do_read(void)' do modelo da classe
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+              C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_connection.h(101,34):
+              veja a primeira referência a 'crow::Connection<Adaptor,Handler>::do_read' em 'crow::Connection<Adaptor,Handler>::start::<lambda_621b81cf17a1dfaeac4aa854a105ae6d>::operator ()'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+  
+C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\parser.h(126,25): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte '/UnitTesting.cpp')
+      C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\parser.h(126,25):
+      o contexto de instanciação do modelo (o mais antigo primeiro) é
+          C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_connection.h(604,32):
+          consulte a referência à instanciação 'crow::HTTPParser<crow::Connection<Adaptor,Handler>>' do modelo da classe que está sendo compilada
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+          C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\parser.h(110,14):
+          ao compilar a função de membro 'bool crow::HTTPParser<crow::Connection<Adaptor,Handler>>::feed(const char *,int)' do modelo da classe
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+              C:\Users\guied\Desktop\Faculdade\Faculdade 24 II 25\PSW 2\vcpkg\installed\x64-windows\include\crow\http_connection.h(492,32):
+              veja a primeira referência a 'crow::HTTPParser<crow::Connection<Adaptor,Handler>>::feed' em 'crow::Connection<Adaptor,Handler>::do_read::<lambda_1d99382a96134724db373a4f44a0d495>::operator ()'
+          with
+          [
+              Adaptor=crow::SocketAdaptor,
+              Handler=crow::Crow<>
+          ]
+  
+     Criando biblioteca C:\Users\guied\Desktop\a03_5\ServerSln\x64\Debug\UnitTesting.lib e objeto C:\Users\guied\Desktop\a03_5\ServerSln\x64\Debug\UnitTesting.exp
+UnitTesting.obj : error LNK2019: símbolo externo não resolvido, "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl base64_decode(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (?base64_decode@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV12@_N@Z), referenciado na função "public: __cdecl <lambda_3a80170807bff4c5f822976077cdad4d>::operator()(struct crow::request const &)const " (??R<lambda_3a80170807bff4c5f822976077cdad4d>@@QEBA@AEBUrequest@crow@@@Z)
+C:\Users\guied\Desktop\a03_5\ServerSln\x64\Debug\UnitTesting.dll : fatal error LNK1120: 1 externo não resolvidos
